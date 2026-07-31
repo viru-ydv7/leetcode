@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/viru-ydv7/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/viru-ydv7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/viru-ydv7/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1631-path-with-minimum-effort](https://github.com/viru-ydv7/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/viru-ydv7/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/viru-ydv7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/viru-ydv7/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/viru-ydv7/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/viru-ydv7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/viru-ydv7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/viru-ydv7/leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
