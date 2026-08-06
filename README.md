@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/viru-ydv7/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/viru-ydv7/leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/viru-ydv7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viru-ydv7/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/viru-ydv7/leetcode/tree/master/0217-contains-duplicate) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/viru-ydv7/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/viru-ydv7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/viru-ydv7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/viru-ydv7/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/viru-ydv7/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/viru-ydv7/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/viru-ydv7/leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/viru-ydv7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/viru-ydv7/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viru-ydv7/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/viru-ydv7/leetcode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/viru-ydv7/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/viru-ydv7/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
