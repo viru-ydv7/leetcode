@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/viru-ydv7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/viru-ydv7/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/viru-ydv7/leetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/viru-ydv7/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/viru-ydv7/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/viru-ydv7/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/viru-ydv7/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viru-ydv7/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/viru-ydv7/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/viru-ydv7/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/viru-ydv7/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
