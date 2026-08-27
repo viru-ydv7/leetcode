@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viru-ydv7/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/viru-ydv7/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/viru-ydv7/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/viru-ydv7/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/viru-ydv7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/viru-ydv7/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/viru-ydv7/leetcode/tree/master/0739-daily-temperatures) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/viru-ydv7/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viru-ydv7/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viru-ydv7/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/viru-ydv7/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/viru-ydv7/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/viru-ydv7/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/viru-ydv7/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/viru-ydv7/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/viru-ydv7/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viru-ydv7/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/viru-ydv7/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/viru-ydv7/leetcode/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
@@ -221,4 +224,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/viru-ydv7/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/viru-ydv7/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/viru-ydv7/leetcode/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/viru-ydv7/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/viru-ydv7/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/viru-ydv7/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
