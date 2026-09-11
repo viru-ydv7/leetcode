@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/viru-ydv7/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/viru-ydv7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/viru-ydv7/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/viru-ydv7/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/viru-ydv7/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/viru-ydv7/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/viru-ydv7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/viru-ydv7/leetcode/tree/master/1192-critical-connections-in-a-network) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/viru-ydv7/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/viru-ydv7/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/viru-ydv7/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/viru-ydv7/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/viru-ydv7/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/viru-ydv7/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/viru-ydv7/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/viru-ydv7/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/viru-ydv7/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/viru-ydv7/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
