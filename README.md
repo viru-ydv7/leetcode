@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/viru-ydv7/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/viru-ydv7/leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/viru-ydv7/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/viru-ydv7/leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/viru-ydv7/leetcode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/viru-ydv7/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/viru-ydv7/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/viru-ydv7/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/viru-ydv7/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/viru-ydv7/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/viru-ydv7/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/viru-ydv7/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/viru-ydv7/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/viru-ydv7/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/viru-ydv7/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/viru-ydv7/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/viru-ydv7/leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/viru-ydv7/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/viru-ydv7/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/viru-ydv7/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
